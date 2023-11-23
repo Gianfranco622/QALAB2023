@@ -42,7 +42,7 @@ public class Main {
         //auto1.frenarHastaDetener();
 */
 
-
+    // Editado por Gianfranco Alfaro Mariño
 
 
     }
